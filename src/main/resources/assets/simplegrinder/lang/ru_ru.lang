@@ -1,0 +1,19 @@
+#CreativeTabs
+itemGroup.simplegrinder=Simple Grinder
+#JEI
+gui.jei.category.grinder=Гриндеринг
+#Gui
+container.grinder=Гриндер
+
+#Block
+tile.coal_grinder.name=Угольный гриндер
+tile.machine_core.name=Машинный корпус
+#Item
+item.mash_potato.name=Картофельное пюре
+item.mash_carrot.name=Морковное пюре
+item.dust_iron.name=Железная пыль
+item.dust_gold.name=Золотая пыль
+item.flour.name=Мука
+item.omlete.name=Омлет
+#Container
+container.coal_grinder=Угленный гриндер
